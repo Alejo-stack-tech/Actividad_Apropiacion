@@ -7,4 +7,3 @@
 
 // console.log("El área del rectángulo es: " + Area);
 
-// este es el valor del producto
