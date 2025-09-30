@@ -1,9 +1,9 @@
-let nombre = prompt("Ingrese su nombre");
+// let nombre = prompt("Ingrese su nombre");
 
-alert("nombre")
+// alert("nombre")
 
-let edad = prompt("Ingrese su edad");
+// let edad = prompt("Ingrese su edad");
 
-alert("edad")
+// alert("edad")
 
-console.log("Hola " + nombre + " tienes " + edad + " años");
+// console.log("Hola " + nombre + " tienes " + edad + " años");

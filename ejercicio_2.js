@@ -1,8 +1,10 @@
-let Base = prompt("Ingrese la base del rectángulo");
-alert("Base")
+// let Base = prompt("Ingrese la base del rectángulo");
+// alert("Base")
 
-let Altura = prompt("Ingrese la altura del rectángulo");
-alert("Altura")
-let Area = Base * Altura;
+// let Altura = prompt("Ingrese la altura del rectángulo");
+// alert("Altura")
+// let Area = Base * Altura;
 
-alert("El área del rectángulo es: " + Area);
+// console.log("El área del rectángulo es: " + Area);
+
+// este es el valor del producto
